@@ -53,4 +53,8 @@
     <!-- Server Client ID.  This should be a valid Web OAuth 2.0 Client ID obtained
          from https://console.developers.google.com/ -->
     <string name="server_client_id">YOUR_SERVER_CLIENT_ID</string>
+
+
+    <string name="join_a_session">Join Session</string>
+    <string name="create_session">Create Session</string>
 </resources>

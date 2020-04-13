@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "9950169407",
+    "firebase_url": "https://online-classes-a0f72.firebaseio.com",
+    "project_id": "online-classes-a0f72",
+    "storage_bucket": "online-classes-a0f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9950169407:android:51710d91a17a2444deeb8a",
+        "android_client_info": {
+          "package_name": "com.art.onlineclasses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9950169407-gh6ita23g9r68av22ks8uanh5dmmravn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjrNEGCI4i0jfr4nUW7U-PSRd1CghT6OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9950169407-gh6ita23g9r68av22ks8uanh5dmmravn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

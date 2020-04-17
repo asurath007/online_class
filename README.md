@@ -9,8 +9,11 @@ video sessions can be conducted
 assignments can be given.
 in-app tests
 tests to be automatic.
-tacher will provide date and time along with questions.
+teacher will provide date and time along with questions.
 test will start automatically on provided time.
 user login using clg. reg. no. Tacher will feed reg. no. to database before hand.
+students can ask doubts in private or in class channel. 
+Doubts can be marked as solved or pending
+Teacher can make private doubts as public.
 
 --New Ideas invited--

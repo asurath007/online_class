@@ -11,17 +11,18 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".UI.NavDrawActivity"
-            android:label="@string/title_activity_nav_draw_actvity"
-            android:theme="@style/AppTheme.NoActionBar"><intent-filter>
-            <action android:name="android.intent.action.MAIN" />
-
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter></activity>
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
 
 
-        <activity android:name=".TeacherSection.TeacherActivity1" />
-        <activity android:name=".StudentSection.StudentActivity1" />
+        <activity android:name=".TeacherSection.TeacherActivity1" android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".StudentSection.StudentActivity1" android:theme="@style/AppTheme.NoActionBar"/>
         <activity android:name=".Main2Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
 
         </activity>
     </application>
